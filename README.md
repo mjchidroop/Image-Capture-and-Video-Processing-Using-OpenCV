@@ -130,16 +130,16 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-Captured image is saved as `captured_image.jpg`
+<img width="512" height="411" alt="download" src="https://github.com/user-attachments/assets/d19f45c9-cf9e-4822-8525-326902ccd12e" />
 
 ### ii) Display the video
-Live webcam video is displayed
+<img width="512" height="389" alt="download" src="https://github.com/user-attachments/assets/e0398583-6285-4cb5-86dd-59dd4d16ce5e" />
 
 ### iii) Display the video by resizing the window
-Video is shown in resized resolution (640 × 480)
+<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/d9780ea7-c7c3-40dd-ab08-cd094715bfa3" />
 
 ### iv) Rotate and display the video
-Video is displayed after rotation (90° clockwise)
+<img width="297" height="389" alt="download" src="https://github.com/user-attachments/assets/db595ed9-e7a4-41d7-942d-bf8e53562360" />
 
 ---
 
