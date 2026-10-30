@@ -42,11 +42,10 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 
 ## Program
 
-### Developed By:
-**Name:** Chidroop M J  
+## Developed By: Chidroop M J
+ 
 
-### Register No:
-212225240029  
+## Register No: 212225240029
 
 ---
 
